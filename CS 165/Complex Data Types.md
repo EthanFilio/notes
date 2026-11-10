@@ -10,3 +10,4 @@
 1. [[TF-IDF]]
 2. [[Page Rank]]
 # [[Spatial Data]]
+
